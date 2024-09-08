@@ -1,0 +1,1 @@
+Added first line in 'file2.txt'
